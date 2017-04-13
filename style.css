@@ -4259,6 +4259,9 @@ object {
 		padding: 0;
 	}
 }
+
+/*Text Overlay*/
+
 .outer-wrapper {
    position: relative;
 }
@@ -4271,10 +4274,14 @@ object {
    color: #1c687f;
 }
 
+/*Footer Button*/
+
 .footer-button {
     text-decoration: none;
     color: #fff;
 }
+
+/*Img in Navbar*/
 
 @media (max-width: 30em) {
     .nav-top-image {
@@ -4287,6 +4294,9 @@ object {
 
 }
 
+
+/*Triangle*/
+
 .tri {
     width: 0;
     height: 0;
@@ -4295,6 +4305,8 @@ object {
     border-color: transparent transparent #00f7ff transparent;
 
 }
+
+/*Background Gradients*/
 
 .panel-content {
     background: rgba(154,192,218,1);
